@@ -1,0 +1,144 @@
+FRED Data
+NOTES
+Rental Vacancy Rate for the United States  (RRVRUSQ156N)
+Source: U.S. Census Bureau  Release: Housing Vacancies and Homeownership  
+Units:  Percent, Not Seasonally Adjusted
+
+Frequency:  Quarterly
+
+The rental vacancy rate is the proportion of the rental inventory that is vacant for rent.
+
+Suggested Citation:
+U.S. Census Bureau, Rental Vacancy Rate for the United States [RRVRUSQ156N], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/RRVRUSQ156N, August 25, 2020.
+
+Unemployment Rate  (UNRATE)
+Source: U.S. Bureau of Labor Statistics  Release: Employment Situation  
+Units:  Percent, Seasonally Adjusted
+
+Frequency:  Monthly
+
+The unemployment rate represents the number of unemployed as a percentage of the labor force. Labor force data are restricted to people 16 years of age and older, who currently reside in 1 of the 50 states or the District of Columbia, who do not reside in institutions (e.g., penal and mental facilities, homes for the aged), and who are not on active duty in the Armed Forces.
+
+This rate is also defined as the U-3 measure of labor underutilization.
+
+The series comes from the 'Current Population Survey (Household Survey)'
+
+The source code is: LNS14000000
+
+Suggested Citation:
+U.S. Bureau of Labor Statistics, Unemployment Rate [UNRATE], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/UNRATE, August 25, 2020.
+
+Population Growth for the United States  (SPPOPGROWUSA)
+Source: World Bank  Release: World Development Indicators  
+Units:  Percent Change at Annual Rate, Not Seasonally Adjusted
+
+Frequency:  Annual
+
+Annual population growth rate for year t is the exponential rate of growth of midyear population from year t-1 to t, expressed as a percentage. Population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship--except for refugees not permanently settled in the country of asylum, who are generally considered part of the population of the country of origin.
+
+Source Indicator: SP.POP.GROW
+
+Suggested Citation:
+World Bank, Population Growth for the United States [SPPOPGROWUSA], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/SPPOPGROWUSA, August 25, 2020.
+
+Interest Rates, Discount Rate for United States  (INTDSRUSM193N)
+Source: International Monetary Fund  Release: International Financial Statistics  
+Units:  Percent per Annum, Not Seasonally Adjusted
+
+Frequency:  Monthly
+
+Notes regarding this series can be found in International Financial Statistics Yearbooks produced by the International Monetary Fund (IMF). We have requested these publications from the IMF. Notes on this series will populate once they become available.
+
+Copyright © 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available from the IMF.
+
+Suggested Citation:
+International Monetary Fund, Interest Rates, Discount Rate for United States [INTDSRUSM193N], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/INTDSRUSM193N, August 25, 2020.
+
+Consumer Price Index for All Urban Consumers: Rent of Primary Residence in U.S. City Average  (CUUR0000SEHA)
+Source: U.S. Bureau of Labor Statistics  Release: Consumer Price Index  
+Units:  Index 1982-1984=100, Not Seasonally Adjusted
+
+Frequency:  Monthly
+
+Suggested Citation:
+U.S. Bureau of Labor Statistics, Consumer Price Index for All Urban Consumers: Rent of Primary Residence in U.S. City Average [CUUR0000SEHA], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/CUUR0000SEHA, August 25, 2020.
+
+S&P/Case-Shiller U.S. National Home Price Index  (CSUSHPINSA)
+Source: S&P Dow Jones Indices LLC  Release: S&P/Case-Shiller Home Price Indices  
+Units:  Index Jan 2000=100, Not Seasonally Adjusted
+
+Frequency:  Monthly
+
+For more information regarding the index, please visit Standard & Poor's. There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+Suggested Citation:
+S&P Dow Jones Indices LLC, S&P/Case-Shiller U.S. National Home Price Index [CSUSHPINSA], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/CSUSHPINSA, August 25, 2020.
+
+Real Median Household Income in the United States  (MEHOINUSA672N)
+Source: U.S. Census Bureau  Release: Income and Poverty in the United States  
+Units:  2018 CPI-U-RS Adjusted Dollars, Not Seasonally Adjusted
+
+Frequency:  Annual
+
+Household data are collected as of March.
+
+As stated in the Census's Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011.
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States.
+
+Suggested Citation:
+U.S. Census Bureau, Real Median Household Income in the United States [MEHOINUSA672N], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/MEHOINUSA672N, August 25, 2020.
+
+Housing Starts: Total: New Privately Owned Housing Units Started  (HOUST)
+Source: U.S. Census Bureau  Source: U.S. Department of Housing and Urban Development  Release: New Residential Construction  
+Units:  Thousands of Units, Seasonally Adjusted Annual Rate
+
+Frequency:  Monthly
+
+As provided by the Census, start occurs when excavation begins for the footings or foundation of a building. All housing units in a multifamily building are defined as being started when this excavation begins. Beginning with data for September 1992, estimates of housing starts include units in structures being totally rebuilt on an existing foundation.
+
+Suggested Citation:
+U.S. Census Bureau and U.S. Department of Housing and Urban Development, Housing Starts: Total: New Privately Owned Housing Units Started [HOUST], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/HOUST, August 25, 2020.
+
+Producer Price Index by Commodity for Inputs to Industries: Inputs to Residential Construction, Goods  (WPUIP2311001)
+Source: U.S. Bureau of Labor Statistics  Release: Producer Price Index  
+Units:  Index Jun 1986=100, Not Seasonally Adjusted
+
+Frequency:  Monthly
+
+Suggested Citation:
+U.S. Bureau of Labor Statistics, Producer Price Index by Commodity for Inputs to Industries: Inputs to Residential Construction, Goods [WPUIP2311001], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/WPUIP2311001, August 25, 2020.
+
+Total Construction Spending: Residential  (TLRESCONS)
+Source: U.S. Census Bureau  Release: Construction Spending  
+Units:  Millions of Dollars, Seasonally Adjusted Annual Rate
+
+Frequency:  Monthly
+
+Definitions related to the construction data can be found at https://www.census.gov/construction/c30/definitions.html
+Methodology details can be found at https://www.census.gov/construction/c30/methodology.html
+
+Suggested Citation:
+U.S. Census Bureau, Total Construction Spending: Residential [TLRESCONS], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/TLRESCONS, August 25, 2020.
+
+RELEASE TABLES
+Construction Spending
+Value of Construction Put in Place: Monthly, Seasonally Adjusted Annual Rate
+Consumer Price Index
+CPI for U.S. City Average: Monthly, Not Seasonally Adjusted
+Employment Situation
+Monthly, Seasonally Adjusted (population data is not adjusted for seasonal variation; not seasonally adjusted version used)
+Table A-10. Selected unemployment indicators, Seasonally adjusted: Monthly, Unemployment Rates
+Table A-15. Alternative measures of labor underutilization: Monthly, Seasonally Adjusted
+Housing Vacancies and Homeownership
+Housing and Homeownership: Rental Vacancy Rate, Not Seasonally Adjusted
+Income and Poverty in the United States
+Real Median Household Income by State, Annual
+New Residential Construction
+Table 3. New Privately-Owned Housing Units Started: Seasonally adjusted annual rate
+S&P/Case-Shiller Home Price Indices
+Home Price Index, Monthly, Not Seasonally Adjusted
